@@ -8,7 +8,7 @@
 	<name>sample-jersey2-web Maven Webapp</name>
 
 	<properties>
-		<spring.version>4.3.18.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 	</properties>
 
 	<dependencies>
